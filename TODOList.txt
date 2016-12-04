@@ -1,0 +1,6 @@
+Redesign views and content.
+News - delete, edit, show all, show single
+Add IsTeacher, IsAdmin flags.
+Add Helpful links. 
+Add calendar of classes.
+Add sockets to send remindings about classes.
